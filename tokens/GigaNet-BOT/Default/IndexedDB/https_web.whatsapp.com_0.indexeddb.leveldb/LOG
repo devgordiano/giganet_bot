@@ -1,0 +1,15 @@
+2024/05/19-20:34:00.347 282c Reusing MANIFEST C:\Users\gordi\OneDrive\projetos\GigaNet_GPT\tokens\GigaNet-BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-20:34:00.348 282c Recovering log #165
+2024/05/19-20:34:00.351 282c Reusing old log C:\Users\gordi\OneDrive\projetos\GigaNet_GPT\tokens\GigaNet-BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000165.log 
+2024/05/19-20:34:00.351 282c Delete type=2 #163
+2024/05/19-20:34:00.351 282c Delete type=2 #166
+2024/05/19-20:34:01.932 1c18 Level-0 table #170: started
+2024/05/19-20:34:01.939 1c18 Level-0 table #170: 82643 bytes OK
+2024/05/19-20:34:01.945 1c18 Delete type=0 #165
+2024/05/19-20:34:01.946 8a0 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/19-20:34:02.789 282c Compacting 1@1 + 1@2 files
+2024/05/19-20:34:02.824 282c Generated table #171@1: 48617 keys, 1662034 bytes
+2024/05/19-20:34:02.824 282c Compacted 1@1 + 1@2 files => 1662034 bytes
+2024/05/19-20:34:02.829 282c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/19-20:34:02.830 282c Delete type=2 #167
+2024/05/19-20:34:02.830 282c Delete type=2 #170
